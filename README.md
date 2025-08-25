@@ -2,7 +2,7 @@
 
 **Freelance Flutter Mobile Developer** • **20+ Apps Shipped** • **Firebase & Supabase** • **Python & SQL** • **Cybersecurity**
 
-I build fast, reliable cross-platform apps with **Flutter/Dart**. Over **20 apps** shipped from MVP to production, including co-founding **NJOB** with **10,000+ active users**. I focus on **clean UI/UX**, **secure auth**, and **solid cloud deployments**.
+I build fast, reliable cross-platform apps with **Flutter/Dart**. Over **20 apps** shipped from MVP to production. I focus on **clean UI/UX**, **secure auth**, and **solid cloud deployments**.
 
 ---
 
