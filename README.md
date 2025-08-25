@@ -15,11 +15,14 @@ I build fast, reliable cross-platform apps with Flutter/Dart. Over **20 apps** s
 ---
 
 ## 📌 Highlights
-- 📱 **NJOB** — Co-founder & mobile dev: Flutter + Python/SQL, Firebase/REST, AWS; grew to **10k+ users** and improved engagement **+30%** with UX work.
-- 🛠 **Sinthoresmar Union App** — Lead dev: admin dashboard, news feed, consultancy scheduling, secure uploads, calculator, anonymous reports, inbox.
-- ⚡ Optimized database access (queries **~25%** faster) and app performance across several client projects.
-- 🔐 Cloud security experience: hardened Linux/Windows servers, firewall configs, Nginx/Apache tuning, proactive monitoring.
 
+- 💼 **Freelance developer** — built & shipped **20+ apps** (Android, iOS & Web) from MVPs to production.
+- 🧭 **Co-founder & Lead Dev — NJOB**: freelancer marketplace I architected & coded end-to-end  
+  (Flutter/Dart · Firebase/Supabase · Python/SQL). Reached **10,000+ users** with smooth onboarding, in-app chat, and smart job matching.
+- ⚙️ **Performance-minded** — faster builds, shorter startup times, CI/CD pipelines, feature flags, and crash monitoring for reliable releases.
+- 🔐 **Security-first** — robust auth, role-based access, encrypted storage, hardened cloud and server configs.
+- 🎨 **UI/UX that ships** — Figma → Flutter handoff, accessible components, iterative testing with real users.
+- 🤝 **Builder mentality** — crisp specs, quick prototypes, measurable improvements, and collaborative delivery
 ---
 
 ## 🎓 Education & Certs
