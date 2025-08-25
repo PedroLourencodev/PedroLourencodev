@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Pedro Lourenço
 
-**Flutter Mobile Developer** • **Python & SQL** • **Security-minded**
+Flutter/Dart • Riverpod/BLoC • Clean Architecture & SOLID • REST APIs • Firebase (Auth, Crashlytics, Analytics, FCM) • Supabase (Postgres, RLS) • OAuth/JWT • Secure Storage • Git/GitHub • CI/CD (GitHub Actions/Codemagic) • Python (automation) • SQL tuning • AWS (EC2/S3) • Linux/Nginx • i18n & Accessibility • Performance profiling
 
 I build fast, reliable cross-platform apps with Flutter/Dart. Over **20 apps** shipped from MVPs to production, including co-founding **NJOB** with **10,000+ active users**. I care about clean UI/UX, secure auth, and solid cloud deployments.
 
