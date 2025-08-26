@@ -7,7 +7,8 @@ I build fast, reliable cross-platform apps with **Flutter/Dart**. Over **20 apps
 ---
 
 ## 🧰 Skills
-**Flutter/Dart** • **Riverpod/BLoC** • **Clean Architecture** • **SOLID** • **REST APIs** • **Firebase** (Auth, Crashlytics, Analytics, **FCM**) • **Supabase** (Postgres, **RLS**) • **OAuth/JWT** • **Secure Storage** • **Git/GitHub** • **CI/CD** (GitHub Actions, Codemagic) • **Python** (automation) • **SQL Tuning** • **AWS** (EC2/S3) • **Linux/Nginx** • **i18n** & **Accessibility** • **Performance Profiling**
+**Flutter/Dart** • **Riverpod/BLoC** • **Clean Architecture** • **SOLID** • **REST APIs** • **Firebase** (Auth, Crashlytics, Analytics, **FCM**) • **Supabase** (Postgres, **RLS**) • **OAuth/JWT** • **Secure Storage** • **Git/GitHub** • **CI/CD** (GitHub Actions, Codemagic) • **Python** (automation) • **HTML/CSS** • **SQL Tuning** • **AWS** (EC2/S3) • **Linux/Nginx** • **i18n** & **Accessibility** • **Performance Profiling**
+
 
 ---
 
